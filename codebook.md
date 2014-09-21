@@ -1,8 +1,4 @@
----
-title: "Codebook"
-date: "21 September 2014"
-output: html_document
----
+## Codebook
 
 
 #### Data 

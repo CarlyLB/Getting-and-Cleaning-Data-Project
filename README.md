@@ -1,10 +1,4 @@
----
-title: "Coursera - Getting and Cleaning Data Project"
-date: "21 September 2014"
-output: html_document
----
-
-
+## README
 
 ### Project Instructions
 
